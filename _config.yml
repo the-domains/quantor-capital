@@ -1,14 +1,14 @@
 layout_spectrum: 0.518647643737495
-typography_spectrum: 0.39096714393235743
+typography_spectrum: 0.787997238105163
 color:
-  brandStrength: 0.16399387479759753
-  lightness: 0.7788554646540433
-  saturation: 0.7894001437816769
-  rhythmicContrast: 0.06369818677194417
+  brandStrength: 0.6708409043494612
+  lightness: 0.4151575663127005
+  saturation: 0.2646669368259609
+  rhythmicContrast: 0.0006653792224824429
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: Quantor Capital
