@@ -1,14 +1,18 @@
 ---
-datePublished: '2016-05-19T17:33:42.513Z'
+datePublished: '2016-08-23T03:52:30.555Z'
 author: []
-dateModified: '2016-05-19T17:31:54.498Z'
+dateModified: '2016-08-23T03:52:30.262Z'
 title: 'Invest your assets alongside ours:'
-description: 'Whether you want to invest alongside our own capital by applying our insight and ideas to your decision-making process or a trusted consultant who can oversee your portfolio and serve as an extension of your investment and administrative staff, we have an advisory model that will work for you.'
-starred: false
+description: >-
+  Whether you want to invest alongside our own capital by applying our insight
+  and ideas to your decision-making process or a trusted consultant who can
+  oversee your portfolio and serve as an extension of your investment and
+  administrative staff, we have an advisory model that will work for you.
 sourcePath: _posts/2016-05-19-invest-your-assets-alongside-ours.md
-inFeed: true
 hasPage: true
-inNav: false
+publisher: {}
+via: {}
+starred: false
 url: invest-your-assets-alongside-ours/index.html
 _context: 'http://schema.org'
 _type: Article
