@@ -12,3 +12,7 @@ color:
     - '#B64926'
     - '#8E2800'
 name: Quantor Capital
+navigation:
+  - name: 'Invest your assets alongside ours: Family Office'
+    id: 8d192c52-cd44-4701-8d56-e9624d4a477a
+    type: content
